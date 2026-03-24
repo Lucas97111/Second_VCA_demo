@@ -15,3 +15,5 @@ To link GitHub.com to the desktop app follow the prompts on the desktop app to l
 In the event of a failed installation commune with TAFE teacher or IT support
 
 First document change 
+
+Change that only applies to branch
