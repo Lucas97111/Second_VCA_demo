@@ -18,4 +18,4 @@ First document change
 
 Change that only applies to branch
 
-Line that will make a merge conflict
+Merge conflict base
