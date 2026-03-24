@@ -1,0 +1,17 @@
+GitHub Installation instructions
+
+GitHub desktop requires at least windows 10 64bit or later, or macOS 12.0 or later
+The installed for GitHub desktop is around 170mb but typically 530mb will be used for a full install
+
+To download GitHub desktop navigate to the download GitHub desktop webpage (https://github.com/apps/desktop)
+
+To install the app on windows download and run the .exe file
+To install the app on mac download the zip, this will automatically be extracted when you open it and then run the GitHub desktop app
+
+To create a GitHub account navigate to the GitHub signup page (https://github.com/signup) and enter your desired credentials 
+
+To link GitHub.com to the desktop app follow the prompts on the desktop app to login and authorise access to link your account
+
+In the event of a failed installation commune with TAFE teacher or IT support
+
+
