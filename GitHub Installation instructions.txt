@@ -19,3 +19,7 @@ First document change
 Change that only applies to branch
 
 Merge conflict base
+
+
+
+Second merge base
