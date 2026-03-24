@@ -17,3 +17,5 @@ In the event of a failed installation commune with TAFE teacher or IT support
 First document change 
 
 Change that only applies to branch
+
+Merge conflict base
