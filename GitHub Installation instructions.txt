@@ -22,4 +22,4 @@ Merge conflict base
 
 
 
-Second merge base
+Merge conflict line 2
